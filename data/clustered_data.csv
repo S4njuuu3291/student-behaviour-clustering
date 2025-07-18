@@ -1,0 +1,201 @@
+Gender,Age,Annual Income (k$),Spending Score (1-100),age_bin,income_bin,spender_bin,score_per_income,age_income,Cluster
+Male,19,15,39,Teen,Low Income,Low Spender,2.6,285,4
+Male,21,15,81,Teen,Low Income,High Spender,5.4,315,2
+Female,20,16,6,Teen,Low Income,Low Spender,0.375,320,4
+Female,23,16,77,Teen,Low Income,High Spender,4.8125,368,2
+Female,31,17,40,Young Adult,Low Income,Low Spender,2.3529411764705883,527,4
+Female,22,17,76,Teen,Low Income,High Spender,4.470588235294118,374,2
+Female,35,18,6,Young Adult,Low Income,Low Spender,0.3333333333333333,630,4
+Female,23,18,94,Teen,Low Income,High Spender,5.222222222222222,414,2
+Male,64,19,3,Senior,Low Income,Low Spender,0.1578947368421052,1216,4
+Female,30,19,72,Young Adult,Low Income,High Spender,3.789473684210526,570,2
+Male,67,19,14,Senior,Low Income,Low Spender,0.7368421052631579,1273,4
+Female,35,19,99,Young Adult,Low Income,High Spender,5.2105263157894735,665,2
+Female,58,20,15,Senior,Low Income,Low Spender,0.75,1160,4
+Female,24,20,77,Teen,Low Income,High Spender,3.85,480,2
+Male,37,20,13,Adult,Low Income,Low Spender,0.65,740,4
+Male,22,20,79,Teen,Low Income,High Spender,3.95,440,2
+Female,35,21,35,Young Adult,Low Income,Low Spender,1.6666666666666667,735,4
+Male,20,21,66,Teen,Low Income,High Spender,3.142857142857143,420,2
+Male,52,23,29,Senior,Low Income,Low Spender,1.2608695652173914,1196,4
+Female,35,23,98,Young Adult,Low Income,High Spender,4.260869565217392,805,2
+Male,35,24,35,Young Adult,Low Income,Low Spender,1.4583333333333333,840,4
+Male,25,24,73,Teen,Low Income,High Spender,3.0416666666666665,600,2
+Female,46,25,5,Adult,Low Income,Low Spender,0.2,1150,4
+Male,31,25,73,Young Adult,Low Income,High Spender,2.92,775,2
+Female,54,28,14,Senior,Low Income,Low Spender,0.5,1512,4
+Male,29,28,82,Young Adult,Low Income,High Spender,2.9285714285714284,812,2
+Female,45,28,32,Adult,Low Income,Low Spender,1.1428571428571428,1260,4
+Male,35,28,61,Young Adult,Low Income,High Spender,2.1785714285714284,980,2
+Female,40,29,31,Adult,Low Income,Low Spender,1.0689655172413792,1160,4
+Female,23,29,87,Teen,Low Income,High Spender,3.0,667,2
+Male,60,30,4,Senior,Low Income,Low Spender,0.1333333333333333,1800,4
+Female,21,30,73,Teen,Low Income,High Spender,2.433333333333333,630,2
+Male,53,33,4,Senior,Low Income,Low Spender,0.1212121212121212,1749,4
+Male,18,33,92,Teen,Low Income,High Spender,2.787878787878788,594,2
+Female,49,33,14,Adult,Low Income,Low Spender,0.4242424242424242,1617,4
+Female,21,33,81,Teen,Low Income,High Spender,2.4545454545454546,693,2
+Female,42,34,17,Adult,Low Income,Low Spender,0.5,1428,4
+Female,30,34,73,Young Adult,Low Income,High Spender,2.147058823529412,1020,2
+Female,36,37,26,Young Adult,Low Income,Low Spender,0.7027027027027027,1332,4
+Female,20,37,75,Teen,Low Income,High Spender,2.027027027027027,740,2
+Female,65,38,35,Senior,Low Income,Low Spender,0.9210526315789472,2470,4
+Male,24,38,92,Teen,Low Income,High Spender,2.421052631578948,912,2
+Male,48,39,36,Adult,Low Income,Low Spender,0.9230769230769232,1872,4
+Female,31,39,61,Young Adult,Low Income,High Spender,1.564102564102564,1209,0
+Female,49,39,28,Adult,Low Income,Low Spender,0.717948717948718,1911,4
+Female,24,39,65,Teen,Low Income,High Spender,1.6666666666666667,936,2
+Female,50,40,55,Senior,Low Income,Medium Spender,1.375,2000,0
+Female,27,40,47,Teen,Low Income,Medium Spender,1.175,1080,0
+Female,29,40,42,Young Adult,Low Income,Medium Spender,1.05,1160,0
+Female,31,40,42,Young Adult,Low Income,Medium Spender,1.05,1240,0
+Female,49,42,52,Adult,Low Income,Medium Spender,1.238095238095238,2058,0
+Male,33,42,60,Young Adult,Low Income,High Spender,1.4285714285714286,1386,0
+Female,31,43,54,Young Adult,Low Income,Medium Spender,1.255813953488372,1333,0
+Male,59,43,60,Senior,Low Income,High Spender,1.3953488372093024,2537,0
+Female,50,43,45,Senior,Low Income,Medium Spender,1.0465116279069768,2150,0
+Male,47,43,41,Adult,Low Income,Low Spender,0.9534883720930232,2021,0
+Female,51,44,50,Senior,Low Income,Medium Spender,1.1363636363636365,2244,0
+Male,69,44,46,Senior,Low Income,Medium Spender,1.0454545454545454,3036,0
+Female,27,46,51,Teen,Low Income,Medium Spender,1.108695652173913,1242,0
+Male,53,46,46,Senior,Low Income,Medium Spender,1.0,2438,0
+Male,70,46,56,Senior,Low Income,Medium Spender,1.2173913043478262,3220,0
+Male,19,46,55,Teen,Low Income,Medium Spender,1.1956521739130437,874,0
+Female,67,47,52,Senior,Low Income,Medium Spender,1.1063829787234043,3149,0
+Female,54,47,59,Senior,Low Income,Medium Spender,1.25531914893617,2538,0
+Male,63,48,51,Senior,Low Income,Medium Spender,1.0625,3024,0
+Male,18,48,59,Teen,Low Income,Medium Spender,1.2291666666666667,864,0
+Female,43,48,50,Adult,Low Income,Medium Spender,1.0416666666666667,2064,0
+Female,68,48,48,Senior,Low Income,Medium Spender,1.0,3264,0
+Male,19,48,59,Teen,Low Income,Medium Spender,1.2291666666666667,912,0
+Female,32,48,47,Young Adult,Low Income,Medium Spender,0.9791666666666666,1536,0
+Male,70,49,55,Senior,Medium Income,Medium Spender,1.1224489795918366,3430,0
+Female,47,49,42,Adult,Medium Income,Medium Spender,0.8571428571428571,2303,0
+Female,60,50,49,Senior,Medium Income,Medium Spender,0.98,3000,0
+Female,60,50,56,Senior,Medium Income,Medium Spender,1.12,3000,0
+Male,59,54,47,Senior,Medium Income,Medium Spender,0.8703703703703703,3186,0
+Male,26,54,54,Teen,Medium Income,Medium Spender,1.0,1404,0
+Female,45,54,53,Adult,Medium Income,Medium Spender,0.9814814814814816,2430,0
+Male,40,54,48,Adult,Medium Income,Medium Spender,0.8888888888888888,2160,0
+Female,23,54,52,Teen,Medium Income,Medium Spender,0.9629629629629628,1242,0
+Female,49,54,42,Adult,Medium Income,Medium Spender,0.7777777777777778,2646,0
+Male,57,54,51,Senior,Medium Income,Medium Spender,0.9444444444444444,3078,0
+Male,38,54,55,Adult,Medium Income,Medium Spender,1.0185185185185186,2052,0
+Male,67,54,41,Senior,Medium Income,Low Spender,0.7592592592592593,3618,0
+Female,46,54,44,Adult,Medium Income,Medium Spender,0.8148148148148148,2484,0
+Female,21,54,57,Teen,Medium Income,Medium Spender,1.0555555555555556,1134,0
+Male,48,54,46,Adult,Medium Income,Medium Spender,0.8518518518518519,2592,0
+Female,55,57,58,Senior,Medium Income,Medium Spender,1.0175438596491229,3135,0
+Female,22,57,55,Teen,Medium Income,Medium Spender,0.9649122807017544,1254,0
+Female,34,58,60,Young Adult,Medium Income,High Spender,1.0344827586206895,1972,0
+Female,50,58,46,Senior,Medium Income,Medium Spender,0.7931034482758621,2900,0
+Female,68,59,55,Senior,Medium Income,Medium Spender,0.9322033898305084,4012,0
+Male,18,59,41,Teen,Medium Income,Low Spender,0.6949152542372882,1062,0
+Male,48,60,49,Adult,Medium Income,Medium Spender,0.8166666666666667,2880,0
+Female,40,60,40,Adult,Medium Income,Low Spender,0.6666666666666666,2400,0
+Female,32,60,42,Young Adult,Medium Income,Medium Spender,0.7,1920,0
+Male,24,60,52,Teen,Medium Income,Medium Spender,0.8666666666666667,1440,0
+Female,47,60,47,Adult,Medium Income,Medium Spender,0.7833333333333333,2820,0
+Female,27,60,50,Teen,Medium Income,Medium Spender,0.8333333333333334,1620,0
+Male,48,61,42,Adult,Medium Income,Medium Spender,0.6885245901639344,2928,0
+Male,20,61,49,Teen,Medium Income,Medium Spender,0.8032786885245902,1220,0
+Female,23,62,41,Teen,Medium Income,Low Spender,0.6612903225806451,1426,0
+Female,49,62,48,Adult,Medium Income,Medium Spender,0.7741935483870968,3038,0
+Male,67,62,59,Senior,Medium Income,Medium Spender,0.9516129032258064,4154,0
+Male,26,62,55,Teen,Medium Income,Medium Spender,0.8870967741935484,1612,0
+Male,49,62,56,Adult,Medium Income,Medium Spender,0.9032258064516128,3038,0
+Female,21,62,42,Teen,Medium Income,Medium Spender,0.6774193548387096,1302,0
+Female,66,63,50,Senior,Medium Income,Medium Spender,0.7936507936507936,4158,0
+Male,54,63,46,Senior,Medium Income,Medium Spender,0.7301587301587301,3402,0
+Male,68,63,43,Senior,Medium Income,Medium Spender,0.6825396825396826,4284,0
+Male,66,63,48,Senior,Medium Income,Medium Spender,0.7619047619047619,4158,0
+Male,65,63,52,Senior,Medium Income,Medium Spender,0.8253968253968254,4095,0
+Female,19,63,54,Teen,Medium Income,Medium Spender,0.8571428571428571,1197,0
+Female,38,64,42,Adult,Medium Income,Medium Spender,0.65625,2432,0
+Male,19,64,46,Teen,Medium Income,Medium Spender,0.71875,1216,0
+Female,18,65,48,Teen,Medium Income,Medium Spender,0.7384615384615385,1170,0
+Female,19,65,50,Teen,Medium Income,Medium Spender,0.7692307692307693,1235,0
+Female,63,65,43,Senior,Medium Income,Medium Spender,0.6615384615384615,4095,0
+Female,49,65,59,Adult,Medium Income,Medium Spender,0.9076923076923076,3185,0
+Female,51,67,43,Senior,Medium Income,Medium Spender,0.6417910447761194,3417,0
+Female,50,67,57,Senior,Medium Income,Medium Spender,0.8507462686567164,3350,0
+Male,27,67,56,Teen,Medium Income,Medium Spender,0.835820895522388,1809,0
+Female,38,67,40,Adult,Medium Income,Low Spender,0.5970149253731343,2546,0
+Female,40,69,58,Adult,Medium Income,Medium Spender,0.8405797101449275,2760,0
+Male,39,69,91,Adult,Medium Income,High Spender,1.318840579710145,2691,1
+Female,23,70,29,Teen,Medium Income,Low Spender,0.4142857142857143,1610,3
+Female,31,70,77,Young Adult,Medium Income,High Spender,1.1,2170,1
+Male,43,71,35,Adult,Medium Income,Low Spender,0.4929577464788732,3053,0
+Male,40,71,95,Adult,Medium Income,High Spender,1.3380281690140845,2840,1
+Male,59,71,11,Senior,Medium Income,Low Spender,0.1549295774647887,4189,3
+Male,38,71,75,Adult,Medium Income,High Spender,1.056338028169014,2698,1
+Male,47,71,9,Adult,Medium Income,Low Spender,0.1267605633802817,3337,3
+Male,39,71,75,Adult,Medium Income,High Spender,1.056338028169014,2769,1
+Female,25,72,34,Teen,Medium Income,Low Spender,0.4722222222222222,1800,0
+Female,31,72,71,Young Adult,Medium Income,High Spender,0.9861111111111112,2232,1
+Male,20,73,5,Teen,High Income,Low Spender,0.0684931506849315,1460,3
+Female,29,73,88,Young Adult,High Income,High Spender,1.2054794520547945,2117,1
+Female,44,73,7,Adult,High Income,Low Spender,0.0958904109589041,3212,3
+Male,32,73,73,Young Adult,High Income,High Spender,1.0,2336,1
+Male,19,74,10,Teen,High Income,Low Spender,0.1351351351351351,1406,3
+Female,35,74,72,Young Adult,High Income,High Spender,0.972972972972973,2590,1
+Female,57,75,5,Senior,High Income,Low Spender,0.0666666666666666,4275,3
+Male,32,75,93,Young Adult,High Income,High Spender,1.24,2400,1
+Female,28,76,40,Teen,High Income,Low Spender,0.5263157894736842,2128,0
+Female,32,76,87,Young Adult,High Income,High Spender,1.144736842105263,2432,1
+Male,25,77,12,Teen,High Income,Low Spender,0.1558441558441558,1925,3
+Male,28,77,97,Teen,High Income,High Spender,1.2597402597402598,2156,1
+Male,48,77,36,Adult,High Income,Low Spender,0.4675324675324675,3696,3
+Female,32,77,74,Young Adult,High Income,High Spender,0.961038961038961,2464,1
+Female,34,78,22,Young Adult,High Income,Low Spender,0.282051282051282,2652,3
+Male,34,78,90,Young Adult,High Income,High Spender,1.1538461538461535,2652,1
+Male,43,78,17,Adult,High Income,Low Spender,0.2179487179487179,3354,3
+Male,39,78,88,Adult,High Income,High Spender,1.1282051282051282,3042,1
+Female,44,78,20,Adult,High Income,Low Spender,0.2564102564102564,3432,3
+Female,38,78,76,Adult,High Income,High Spender,0.9743589743589745,2964,1
+Female,47,78,16,Adult,High Income,Low Spender,0.2051282051282051,3666,3
+Female,27,78,89,Teen,High Income,High Spender,1.141025641025641,2106,1
+Male,37,78,1,Adult,High Income,Low Spender,0.0128205128205128,2886,3
+Female,30,78,78,Young Adult,High Income,High Spender,1.0,2340,1
+Male,34,78,1,Young Adult,High Income,Low Spender,0.0128205128205128,2652,3
+Female,30,78,73,Young Adult,High Income,High Spender,0.935897435897436,2340,1
+Female,56,79,35,Senior,High Income,Low Spender,0.4430379746835443,4424,3
+Female,29,79,83,Young Adult,High Income,High Spender,1.0506329113924051,2291,1
+Male,19,81,5,Teen,High Income,Low Spender,0.0617283950617283,1539,3
+Female,31,81,93,Young Adult,High Income,High Spender,1.148148148148148,2511,1
+Male,50,85,26,Senior,High Income,Low Spender,0.3058823529411765,4250,3
+Female,36,85,75,Young Adult,High Income,High Spender,0.8823529411764706,3060,1
+Male,42,86,20,Adult,High Income,Low Spender,0.2325581395348837,3612,3
+Female,33,86,95,Young Adult,High Income,High Spender,1.1046511627906976,2838,1
+Female,36,87,27,Young Adult,High Income,Low Spender,0.3103448275862069,3132,3
+Male,32,87,63,Young Adult,High Income,High Spender,0.7241379310344828,2784,1
+Male,40,87,13,Adult,High Income,Low Spender,0.1494252873563218,3480,3
+Male,28,87,75,Teen,High Income,High Spender,0.8620689655172413,2436,1
+Male,36,87,10,Young Adult,High Income,Low Spender,0.1149425287356321,3132,3
+Male,36,87,92,Young Adult,High Income,High Spender,1.057471264367816,3132,1
+Female,52,88,13,Senior,High Income,Low Spender,0.1477272727272727,4576,3
+Female,30,88,86,Young Adult,High Income,High Spender,0.9772727272727272,2640,1
+Male,58,88,15,Senior,High Income,Low Spender,0.1704545454545454,5104,3
+Male,27,88,69,Teen,High Income,High Spender,0.7840909090909091,2376,1
+Male,59,93,14,Senior,High Income,Low Spender,0.1505376344086021,5487,3
+Male,35,93,90,Young Adult,High Income,High Spender,0.967741935483871,3255,1
+Female,37,97,32,Adult,High Income,Low Spender,0.3298969072164948,3589,3
+Female,32,97,86,Young Adult,High Income,High Spender,0.8865979381443299,3104,1
+Male,46,98,15,Adult,High Income,Low Spender,0.1530612244897959,4508,3
+Female,29,98,88,Young Adult,High Income,High Spender,0.8979591836734694,2842,1
+Female,41,99,39,Adult,High Income,Low Spender,0.3939393939393939,4059,3
+Male,30,99,97,Young Adult,High Income,High Spender,0.9797979797979798,2970,1
+Female,54,101,24,Senior,High Income,Low Spender,0.2376237623762376,5454,3
+Male,28,101,68,Teen,High Income,High Spender,0.6732673267326733,2828,1
+Female,41,103,17,Adult,High Income,Low Spender,0.1650485436893204,4223,3
+Female,36,103,85,Young Adult,High Income,High Spender,0.8252427184466019,3708,1
+Female,34,103,23,Young Adult,High Income,Low Spender,0.2233009708737864,3502,3
+Female,32,103,69,Young Adult,High Income,High Spender,0.6699029126213593,3296,1
+Male,33,113,8,Young Adult,High Income,Low Spender,0.0707964601769911,3729,3
+Female,38,113,91,Adult,High Income,High Spender,0.8053097345132744,4294,1
+Female,47,120,16,Adult,High Income,Low Spender,0.1333333333333333,5640,3
+Female,35,120,79,Young Adult,High Income,High Spender,0.6583333333333333,4200,1
+Female,45,126,28,Adult,High Income,Low Spender,0.2222222222222222,5670,3
+Male,32,126,74,Young Adult,High Income,High Spender,0.5873015873015873,4032,1
+Male,32,137,18,Young Adult,High Income,Low Spender,0.1313868613138686,4384,3
+Male,30,137,83,Young Adult,High Income,High Spender,0.6058394160583942,4110,1
